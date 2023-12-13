@@ -1,4 +1,4 @@
-# image_processing
+# image_processingg
 
 Description. 
 The package package_name is used to:
@@ -18,7 +18,7 @@ The package package_name is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
 
 ```bash
-pip install image_processing
+pip install -i https://test.pypi.org/simple/ image-processingg
 ```
 
 ## Author
