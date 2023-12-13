@@ -13,7 +13,7 @@ with open("requirements.txt", encoding="utf-8") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing",
+    name="image_processingg",
     version="0.0.1",
     author="rcvdigo",
     author_email="rcvdigo@gmail.com",
