@@ -14,7 +14,7 @@ with open("requirements.txt", encoding="utf-8") as f:
 
 setup(
     name="image_processingg",
-    version="0.0.1",
+    version="0.0.2",
     author="rcvdigo",
     author_email="rcvdigo@gmail.com",
     description="My first package in Python",
